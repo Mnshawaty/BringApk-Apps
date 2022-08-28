@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
   <title>تحميل برابط مباشر من ميديا فاير</title>
     <link rel="icon" href="/favicon.ico" />
+    <meta name="google-site-verification" content="fbZLKz2KwkjYXYOSovmfIYd4EqgAjU3yTGPSV0L4KOs" />
       </Head>
 
        <main>
